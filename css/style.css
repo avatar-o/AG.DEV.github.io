@@ -3,8 +3,17 @@
 * {
     margin: 0;
     padding: 0;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    border: none;
+    outline: none;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
 }
 
 body {
